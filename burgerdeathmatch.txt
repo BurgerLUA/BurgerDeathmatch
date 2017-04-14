@@ -1,0 +1,11 @@
+"burgerdeathmatch"
+{
+	"base"		"sandbox"
+	"title"		"Deathmatch"
+	"maps"		""
+	"menusystem"	"1"
+
+	"settings"
+	{
+	}
+}
