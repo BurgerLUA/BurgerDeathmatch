@@ -65,6 +65,9 @@ function PLAYER:Spawn()
 		col = Vector( 0.001, 0.001, 0.001 )
 	end
 	self.Player:SetWeaponColor( col )
+	
+	--self:SetHealth(100)
+	--self:SetArmor(100)
 
 end
 
